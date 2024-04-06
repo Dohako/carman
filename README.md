@@ -4,6 +4,10 @@
 
 Carman is a car management system that allows users to manage their cars. Users can add, update, delete, and view cars. The system also allows users to view the car's details, such as the car's make, model, year, and price. The system also allows users to search for cars based on the car's make, model, year, and price.
 
+## Architecture
+
+![Scheme](screenshots/arch_scheme_whole.jpg)
+
 ## Features
 
 - Login
